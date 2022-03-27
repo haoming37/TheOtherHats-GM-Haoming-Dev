@@ -1,0 +1,15 @@
+{
+    "hats": [
+        {
+            "name": "Soap Bubble",
+            "author": "R1",
+            "package": "GM-Haoming Community Hat\u2019s",
+            "condition": "None",
+            "resource": "SoapBubble_adaptive.png",
+            "reshasha": "8133cdf2fb86c4ceb38d5e1bb13f8a5b",
+            "climbresource": "SoapBubble_adaptive_climb.png",
+            "reshashc": "1bcc9ee8b01ee2d6d1fc70405c9402dc",
+            "adaptive": true
+        }
+    ]
+}
