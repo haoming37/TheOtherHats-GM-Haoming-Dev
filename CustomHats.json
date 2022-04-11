@@ -14,6 +14,24 @@
             "flipresource": "gyudon_adaptive_flip.png",
             "reshashf": "6bdd8a54cd8f984a482b781da1144ee4",
             "adaptive": true
+        },
+        {
+            "name": "Narumi",
+            "author": "Haoming",
+            "package": "02haomingHat",
+            "condition": "None",
+            "resource": "narumi.png",
+            "reshasha": "aef4aae3214d1a3fc9a990fa5091e126"
+        },
+        {
+            "name": "Narumi2",
+            "author": "Haoming",
+            "package": "02haomingHat",
+            "condition": "None",
+            "resource": "narumi2.png",
+            "reshasha": "41726b0dd0f8f75e20c78041650bbde3",
+            "flipresource": "narumi2_flip.png",
+            "reshashf": "f8288e51f765a89ec71824628047ba17"
         }
     ]
 }
