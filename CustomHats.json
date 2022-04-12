@@ -32,6 +32,17 @@
             "reshasha": "41726b0dd0f8f75e20c78041650bbde3",
             "flipresource": "narumi2_flip.png",
             "reshashf": "f8288e51f765a89ec71824628047ba17"
+        },
+        {
+            "name": "Swan",
+            "author": "enoki",
+            "package": "02haomingHat",
+            "condition": "None",
+            "resource": "swan_adaptive.png",
+            "reshasha": "588dc6b8374a1b3539e9276e14003e7a",
+            "climbresource": "swan_climb_adaptive.png",
+            "reshashc": "0427967bb06c18766e64e0bc3b8bec22",
+            "adaptive": true
         }
     ]
 }
