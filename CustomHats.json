@@ -16,6 +16,19 @@
             "adaptive": true
         },
         {
+            "name": "Hammer",
+            "author": "hammer",
+            "package": "02haomingHat",
+            "condition": "None",
+            "resource": "hammer_adaptive.png",
+            "reshasha": "06c6ebf8ed7dd0c2cc4905cd6b8ec402",
+            "climbresource": "hammer_climb.png",
+            "reshashc": "24943c5c8d95071d0f48f37f4d9f832d",
+            "flipresource": "hammer_adaptive_flip.png",
+            "reshashf": "12bd2fe88a01c5d61699cc7a5701b304",
+            "adaptive": true
+        },
+        {
             "name": "Narumi",
             "author": "Haoming",
             "package": "02haomingHat",
